@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "c717d3fae7123187",
+    "type": "split",
+    "children": [
+      {
+        "id": "fde30120e54ed783",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "116aa7becea40bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding Interview With Kotlin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ac36e4d50e24e33",
+    "type": "split",
+    "children": [
+      {
+        "id": "78d6fb9ce71f255b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a02eb0c3bf19df5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9197098755d6fbdd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b873e9279b9bc4f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26d7299314e4cc1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "26a0a9029dd80572",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49cba1b405953b3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Coding Interview With Kotlin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93937c137b5fd74d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Coding Interview With Kotlin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "377c0f26b4f144f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d42fad4bfb4a6654",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Coding Interview With Kotlin.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "116aa7becea40bc7",
+  "lastOpenFiles": [
+    "Coding Interview With Kotlin.md"
+  ]
+}
